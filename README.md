@@ -37,7 +37,7 @@ To run in production mode
 ## Documentation
 ### In the link below is the documentation about the endpoints
 
-### [https://documenter.getpostman.com/view/17338375/U16onNb5](https]://documenter.getpostman.com/view/17338375/U16onNb5)
+### [https://documenter.getpostman.com/view/17338375/U16onNb5](https://documenter.getpostman.com/view/17338375/U16onNb5)
 
 - Note to enter the "admin" routes it is necessary to authenticate with a token that can be acquired through the `login` or `singUp` route
 
